@@ -4,7 +4,7 @@
 
 ## In my profile you can find My CS50P Harvard Python course final project, my thesis project named APEX and the C++ microcontroller projects.
 
-# Aside from the listed Repos i have experience in :
+## Aside from the listed Repos i have experience in :
 ![Python](https://img.shields.io/badge/Python-40B5AD)
 ![C++](https://img.shields.io/badge/C++-40B5AD)
 ![Matlab](https://img.shields.io/badge/Matlab-40B5AD)
