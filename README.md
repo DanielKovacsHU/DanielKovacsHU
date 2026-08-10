@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, my name is Dániel Kovács and i'm Mechatronics Engineer. I done my bachelor’s thesis in computer vision and pattern recognition topic, and currently working on embedded systems.
+
+## Currently building embedded systems using the latest Raspberry PI Pico 2W microcontroller with sensors and actuators, developed in C++.
+
+## In my profile you can find...
+
+
 
 <!--
 **DanielKovacsHU/DanielKovacsHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
