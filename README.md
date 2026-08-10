@@ -1,6 +1,6 @@
 ## Hi, my name is Dániel Kovács and i'm Mechatronics Engineer. I done my bachelor’s thesis in computer vision and pattern recognition topic. Nowdays, i work on embedded systems.
 
-- Currently building embedded systems using the latest Raspberry Pi Pico 2W microcontroller with sensors and actuators, developed in C++.
+- Currently building embedded systems using a Raspberry Pi Pico 2W microcontroller combined with sensors and actuators, developed in C++.
 
 - In my profile you can find My [Harvard CS50P](https://github.com/DanielKovacsHU/Python_Project) Python course final project, my thesis project named [APEX](https://github.com/DanielKovacsHU/APEX) and the [C++ microcontroller](https://github.com/DanielKovacsHU/CPP_Projects) projects.
 
