@@ -2,32 +2,21 @@
 
 - Currently building embedded systems using a Raspberry Pi Pico 2W microcontroller combined with sensors and actuators, developed in C++.
 
-- In my profile you can find My [Harvard CS50P](https://github.com/DanielKovacsHU/Python_Project) Python course final project, my thesis project named [APEX](https://github.com/DanielKovacsHU/APEX) and the [C++ microcontroller](https://github.com/DanielKovacsHU/CPP_Projects) projects.
+- In my profile you can find My [Harvard CS50P](https://github.com/DanielKovacsHU/Python_Project) Python final project, my thesis project named [APEX](https://github.com/DanielKovacsHU/APEX) and the [C++ microcontroller](https://github.com/DanielKovacsHU/CPP_Projects) projects.
 
-- Aside from the listed Repos i have experience in :
-![Python](https://img.shields.io/badge/Python-40B5AD)
-![C++](https://img.shields.io/badge/C++-40B5AD)
-![Matlab](https://img.shields.io/badge/Matlab-40B5AD)
-![SQL](https://img.shields.io/badge/SQL-40B5AD)
-![CAD](https://img.shields.io/badge/CAD-40B5AD)
-![3D Printing](https://img.shields.io/badge/3D_Printing-40B5AD)
-![APDL](https://img.shields.io/badge/APDL_for_using_Ansys-40B5AD)
-![PLC](https://img.shields.io/badge/PLC-40B5AD)
-![Fluidsim](https://img.shields.io/badge/Festo_Fluidsim-40B5AD)
+- My experiences include :
+  - ![Python](https://img.shields.io/badge/Python-40B5AD), My **Verified** Harvard CS50 [Python](https://courses.edx.org/certificates/f1ad8d9bcd2148e486c6a7501899fcef) Certification
+  - ![C++](https://img.shields.io/badge/C++-40B5AD)
+  - ![Matlab](https://img.shields.io/badge/Matlab-40B5AD)
+  - ![SQL](https://img.shields.io/badge/SQL-40B5AD), My **Verified** Harvard CS50 [SQL](https://courses.edx.org/certificates/70a15d757dfa4db9b2ae2b10a72ec5ef) Certification
+  - ![CAD](https://img.shields.io/badge/CAD-40B5AD)
+  - ![3D Printing](https://img.shields.io/badge/3D_Printing-40B5AD)
+  - ![APDL](https://img.shields.io/badge/APDL_for_using_Ansys-40B5AD)
+  - ![PLC](https://img.shields.io/badge/PLC-40B5AD)
+  - ![Fluidsim](https://img.shields.io/badge/Festo_Fluidsim-40B5AD)
 
-- Lastly here is My Verified Harvard CS50 [Python](https://courses.edx.org/certificates/f1ad8d9bcd2148e486c6a7501899fcef) and [SQL](https://courses.edx.org/certificates/70a15d757dfa4db9b2ae2b10a72ec5ef) Certification
+## Contact
 
-<!--
-**DanielKovacsHU/DanielKovacsHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach me at [contact.perfected006@passinbox.com](mailto:contact.perfected006@passinbox.com) for questions, job offers, collaborations, or other opportunities.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use my own dedicated email alias here to keep my primary email private and free from spam. If we need to continue the conversation directly, I’m happy to share my main contact details privately.
