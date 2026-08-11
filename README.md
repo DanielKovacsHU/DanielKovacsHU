@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi, my name is Dániel Kovács and i'm Mechatronics Engineer. I done my bachelor’s thesis in computer vision and pattern recognition topic. Nowdays, i work on embedded systems.
+Hi, my name is Dániel Kovács and I'm Mechatronics Engineer. I done my bachelor’s thesis in computer vision and pattern recognition topic. Nowadays, i work on embedded systems.
 
 In my profile you can find My CS50P [Python](https://github.com/DanielKovacsHU/Python_Project) final project and my bachelor’s thesis project named [APEX](https://github.com/DanielKovacsHU/APEX). I'm also currently building embedded systems using a Raspberry Pi Pico 2W microcontroller combined with sensors and actuators, developed in [C++](https://github.com/DanielKovacsHU/CPP_Projects).
 
